@@ -1,0 +1,12 @@
+h3{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+}
+.box{
+    border: 2px solid #4d4d4d;
+    border-radius: 10px;
+    padding: 10px;
+}
